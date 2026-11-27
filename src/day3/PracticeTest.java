@@ -19,10 +19,10 @@ public class PracticeTest {
 //        System.out.print("Sum of even number is: ");
 //        System.out.println(sum);
       //Problem3
-        int n=5;
-        for(int i=1; i<=10;i++){
-            System.out.printf("%d X %d = %d\n", n, i, n*i);
-        }
+//        int n=5;
+//        for(int i=1; i<=10;i++){
+//            System.out.printf("%d X %d = %d\n", n, i, n*i);
+//        }
 
     }
 
